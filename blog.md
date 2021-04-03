@@ -2,7 +2,7 @@
 layout: blog
 permalink: /blog/
 title: Error & Solve| Blog
-pagination: 20
+pagination: 
   enabled: true
 ---
 
