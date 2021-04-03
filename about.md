@@ -1,8 +1,18 @@
 ---
 layout: description
-title: About
+title: DOHEE KIM | About
 permalink: /about/
 ---
+
+안녕하세요, 저는 정보통신공학과를 졸업하고 현재 코딩학원 프리랜서 강사로 일하고 있는 김도희입니다.
+COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data Science, Python, Java등 다양한 언어로 아이들을 가르치는 일을 현재 1년이상 하고 있습니다.
+
+그리고 현재는 Back-End와 관심있던 Machine Learing 및 Deep Learning을 중점으로 공부를 하고 있습니다. 
+
+개발자로서의 마음가짐은 "안되는 건 없다." , "포기하지 말고 끝까지 달라붙자." , "뭐든지 직접 타이핑해봐야안다.", "맨땅에 헤딩" 이라는 말들을 마음에 품고 개발을 합니다.
+에러가 나와도 어떻게든 해결해내야 마음이 놓입니다.
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
