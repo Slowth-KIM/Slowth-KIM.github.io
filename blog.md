@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Error & Solve| Blog
+title: DOHEE KIM | Error & Solve 
 pagination: 
   enabled: true
 ---
