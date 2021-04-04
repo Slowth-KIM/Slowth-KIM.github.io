@@ -13,15 +13,6 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 에러가 나와도 어떻게든 해결해내야 마음이 놓입니다.
 
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
