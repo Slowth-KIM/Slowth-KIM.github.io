@@ -49,10 +49,16 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
     - 교내 캡스톤 디자인 경진대회 우수상 수상 
     - 한학기 둉안 교내 IoT 강의로 선정 및 진행 
     
-3.  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
-4.  [**Spring Boot Study**](https://github.com/Slowth-KIM/Springboot-study)
-5.  [**Todo JS**](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS)
-6.  [**Python ML Study**](https://github.com/Slowth-KIM/ML-workspace)
+2.  [**C Pos Program(with MySQL**](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement)
+3.  [**C로 구현한 네트워크 프로젝트**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Network%20Implement)
+4.  [**Java Shooting Game**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Shooting%20Game)
+5.  [**Java 짝맞추기 게임**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Final%20Test)
+6.  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
+7.  [**Spring Boot Study**](https://github.com/Slowth-KIM/Springboot-study)
+8.  [**Todo JS**](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS)
+9.  [**Python ML Study**](https://github.com/Slowth-KIM/ML-workspace)
+10. [**랩실 세미나 자료**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Seminar%20PPT)
+11. [**알고리즘 스터디**](https://github.com/Slowth-KIM/Algorithm)
 
 <br>
 <br>
@@ -63,3 +69,4 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 ## Work Experience
 
 - CIT CODE ACADEMY(2019.12 ~ 현재)
+    - Data Sciecnce, Computer Science, Python, Java, Raspberry Pi 를 중심으로 초등학생부터 성인까지 다양한 연령층을 가르치고 있습니다. 
