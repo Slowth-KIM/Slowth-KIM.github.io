@@ -22,7 +22,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 또한 3년정도 소프트웨어 연구실에 근무하면서 서버와 네트워크에 대해서도 조금이나마 다룰 수 있었습니다.
 
-제 개발 기록을 확인해보시려면 [이쪽](https://github.com/Slowth-KIM)
+제 개발 기록을 확인해보시려면 [@이쪽 : Github](https://github.com/Slowth-KIM)
 
 <br>
 <br>
@@ -44,20 +44,17 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 ## Projects
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+1.  [Smart Multi plug](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement)
+1.  [Java Study](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
+1.  [Spring Boot Study](https://github.com/Slowth-KIM/Springboot-study)
+2.  [Todo JS](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS)
+3.  [Python ML Study](https://github.com/Slowth-KIM/ML-workspace)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<br>
+<br>
+<br>
+<br>
+
 
 #### Header 4
 
