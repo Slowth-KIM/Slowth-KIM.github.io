@@ -45,10 +45,14 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 ## Projects
 
 1.  [**Smart Multi plug**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) 
-1.  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
-1.  [**Spring Boot Study**](https://github.com/Slowth-KIM/Springboot-study)
-2.  [**Todo JS**](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS)
-3.  [**Python ML Study**](https://github.com/Slowth-KIM/ML-workspace)
+    MQTT 프로토콜과 Raspberry Pi 서버, Arduino 클라이언트르 기반으로 한 스마트 멀티 플러그 구현 프로젝트
+    교내 캡스톤 디자인 경진대회 우수상 수상
+    한학기 둉안 교내 IoT 강의로 선정 및 진행
+    
+3.  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
+4.  [**Spring Boot Study**](https://github.com/Slowth-KIM/Springboot-study)
+5.  [**Todo JS**](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS)
+6.  [**Python ML Study**](https://github.com/Slowth-KIM/ML-workspace)
 
 <br>
 <br>
@@ -56,89 +60,6 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 
 
-#### Header 4
+## Work Experience
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-## Emojis
+- CIT CODE ACADEMY(2019.12 ~ 현재)
