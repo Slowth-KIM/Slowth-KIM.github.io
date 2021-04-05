@@ -10,8 +10,10 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 그리고 현재는 Back-End와 관심있던 Machine Learing 및 Deep Learning을 중점으로 공부를 하고 있습니다. 
 
 개발자로서의 마음가짐은 
+
 ### **"안되는 건 없다."**
 ### **"포기하지 말고 끝까지 달라붙자."**
+
 이라는 말들을 마음에 품고 개발을 합니다.
 에러가 나와도 어떻게든 해결해내야 마음이 놓입니다.
 
@@ -20,18 +22,24 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 또한 3년정도 소프트웨어 연구실에 근무하면서 서버와 네트워크에 대해서도 조금이나마 다룰 수 있었습니다.
 
+제 개발 기록을 확인해보시려면 [이쪽](https://github.com/Slowth-KIM)
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Skills
 
-### Header 3
+### Language : Java, Python, C, HTML/CSS, JS
+
+### Backend : Linux, Spring Boot
+
+### Databases : MySQL
+
+
+
+
+
+## Projects
 
 ```js
 // Javascript code with syntax highlighting.
