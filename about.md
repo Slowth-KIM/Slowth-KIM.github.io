@@ -44,11 +44,11 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 ## Projects
 
-1.  ** [Smart Multi plug] **(https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) 
-1.  [Java Study](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
-1.  [Spring Boot Study](https://github.com/Slowth-KIM/Springboot-study)
-2.  [Todo JS](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS)
-3.  [Python ML Study](https://github.com/Slowth-KIM/ML-workspace)
+1.  [**Smart Multi plug**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) 
+1.  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
+1.  [**Spring Boot Study**](https://github.com/Slowth-KIM/Springboot-study)
+2.  [**Todo JS**](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS)
+3.  [**Python ML Study**](https://github.com/Slowth-KIM/ML-workspace)
 
 <br>
 <br>
