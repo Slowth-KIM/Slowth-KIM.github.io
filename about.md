@@ -45,6 +45,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 ## Projects
 
 1.  [**Smart Multi plug**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) :
+<br>
     - MQTT 프로토콜과 Raspberry Pi 서버, Arduino 클라이언트르 기반으로 한 스마트 멀티 플러그 구현 프로젝트 
     - 교내 캡스톤 디자인 경진대회 우수상 수상 
     - 한학기 둉안 교내 IoT 강의로 선정 및 진행 
@@ -69,4 +70,5 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 ## Work Experience
 
 - CIT CODE ACADEMY(2019.12 ~ 현재)
+<br>
     - Data Sciecnce, Computer Science, Python, Java, Raspberry Pi 를 중심으로 초등학생부터 성인까지 다양한 연령층을 가르치고 있습니다. 
