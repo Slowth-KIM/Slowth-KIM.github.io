@@ -24,8 +24,10 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 제 개발 기록을 확인해보시려면 [이쪽](https://github.com/Slowth-KIM)
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Skills
 
@@ -35,9 +37,10 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 ### Databases : MySQL
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Projects
 
