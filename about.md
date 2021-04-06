@@ -46,25 +46,21 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 1.  [**Smart Multi plug**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) :
 
-<br>
-
-    - MQTT 프로토콜과 Raspberry Pi 서버, Arduino 클라이언트르 기반으로 한 스마트 멀티 플러그 구현 프로젝트 
-    - 교내 캡스톤 디자인 경진대회 우수상 수상 
-    - 한학기 둉안 교내 IoT 강의로 선정 및 진행 
+```
+    MQTT 프로토콜과 Raspberry Pi 서버, Arduino 클라이언트르 기반으로 한 스마트 멀티 플러그 구현 프로젝트 
+    교내 캡스톤 디자인 경진대회 우수상 수상 
+    한학기 둉안 교내 IoT 강의로 선정 및 진행
+```
     
 2.  [**C Pos Program(with MySQL)**](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement)
 
-<br>
-
-    - RDBMS인 MySQL을 기반으로 우리가 흔히 가게에서 볼 수 있는 POS프로그램 구현 프로젝트 
-    - 현금, 카드, 외상 등의 결제 시스템  
-    - 좌석별로 배치 및 주문 가능, 그래픽으로 현 좌석 상황 확인 가능
-    - 식품 별 재고관리 시스템으로 주문할 때 음식별로 사용한 식재료만큼 자동으로 재고 변동 
-    
-
-
-
-4.  [**C로 구현한 네트워크 프로젝트**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Network%20Implement)
+```
+    RDBMS인 MySQL을 기반으로 우리가 흔히 가게에서 볼 수 있는 POS프로그램 구현 프로젝트 
+    현금, 카드, 외상 등의 결제 시스템  
+    좌석별로 배치 및 주문 가능, 그래픽으로 현 좌석 상황 확인 가능
+    식품 별 재고관리 시스템으로 주문할 때 음식별로 사용한 식재료만큼 자동으로 재고 변동
+```
+3. [**C로 구현한 네트워크 프로젝트**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Network%20Implement)
 5.  [**Java Shooting Game**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Shooting%20Game)
 6.  [**Java 짝맞추기 게임**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Final%20Test)
 7.  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement)
