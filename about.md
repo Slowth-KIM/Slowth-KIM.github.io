@@ -44,7 +44,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 ## Projects
 
-1.  [**Smart Multi plug**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) :
+-  [**Smart Multi plug**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Smart%20Multi%20Plug%20Implement) :
 
 ```
     MQTT 프로토콜과 Raspberry Pi 서버, Arduino 클라이언트르 기반으로 한 스마트 멀티 플러그 구현 프로젝트 
@@ -55,7 +55,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 
     
-2.  [**C Pos Program(with MySQL)**](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement) :
+-  [**C Pos Program(with MySQL)**](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement) :
 
 
 ```
@@ -67,7 +67,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 <br>
 
-3.  [**C로 구현한 네트워크 프로젝트**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Network%20Implement) :
+-  [**C로 구현한 네트워크 프로젝트**](https://github.com/Slowth-KIM/univ-csProject/tree/main/Network%20Implement) :
 
 
 ```
@@ -78,7 +78,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 
 
-4.  [**Java Shooting Game**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Shooting%20Game) :
+-  [**Java Shooting Game**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Shooting%20Game) :
 
 ```
    자바 스윙을 이용한 갤러거 + 탄막 슈팅 게임
@@ -89,7 +89,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 
 
-5.  [**Java 짝맞추기 게임**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Final%20Test) :
+-  [**Java 짝맞추기 게임**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement/Final%20Test) :
 
 ```
    자바 스윙을 이용한 짝맞추기 게임
@@ -97,7 +97,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 <br>
 
-6.  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement) :
+-  [**Java Study**](https://github.com/Slowth-KIM/univ-csProject/tree/main/JAVA%20Implement) :
 
 ```
    자바를 공부하면서 정리해둔 코드 모음
@@ -105,7 +105,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 <br>
 
-7.  [**Spring Boot Study**](https://github.com/Slowth-KIM/Springboot-study) :
+-  [**Spring Boot Study**](https://github.com/Slowth-KIM/Springboot-study) :
 
 ```
    스프링 부트를 공부하면서 정리해둔 코드 모음
@@ -114,7 +114,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 <br>
 
-8.  [**Todo JS**](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS) :
+-  [**Todo JS**](https://github.com/Slowth-KIM/vanillaJS-study/tree/main/todoJS) :
 
 ```
   Vanila JS로 구현한 ToDo 리스트
@@ -125,7 +125,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 
 
 
-9.  [**Python ML Study**](https://github.com/Slowth-KIM/ML-workspace) :
+-  [**Python ML Study**](https://github.com/Slowth-KIM/ML-workspace) :
 
 ```
    핸즈온 머신러닝 책을 읽고 정리한 코드 모음
@@ -133,7 +133,7 @@ COVID 19 이슈로 인해 준비하고 있던 일본 유학을 포기하고 Data
 <br>
 <br>
 
-10. [**알고리즘 스터디**](https://github.com/Slowth-KIM/Algorithm) :
+- [**알고리즘 스터디**](https://github.com/Slowth-KIM/Algorithm) :
 
 ```
    leetcode, programmers에서 푼 문제들
