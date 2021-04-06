@@ -1,3 +1,12 @@
+---
+layout: post
+comments: true
+title : Spring Boot 에러 및 해결법
+categories: [Solution]
+---
+
+
+
 ## 스프링 부트를 공부하면서 발생한 에러와 그 해결법
 
 <br>
